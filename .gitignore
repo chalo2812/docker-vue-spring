@@ -32,6 +32,4 @@ server/package-lock.json
 package-lock.json
 target/
 node_modules
-.dockerignore
-.eslintrc.js
 client/node_modules/
