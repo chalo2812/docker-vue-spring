@@ -32,14 +32,6 @@ server/package-lock.json
 package-lock.json
 target/
 node_modules
-client/.gitignore
 .dockerignore
 .eslintrc.js
-Dockerfile
-README.md
-babel.config.js
-package.json
-public/
-src/
-vue.config.js
-webpack.config.js
+client/node_modules/
