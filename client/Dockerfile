@@ -1,6 +1,5 @@
 FROM node:alpine
 
-RUN mkdir -p /opt
 WORKDIR /opt
 COPY package.json .
 RUN npm install --quiet
